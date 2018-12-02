@@ -25,4 +25,5 @@ Square (10^5 dots, no repeats)
 Pentagon (10^5 dots)
 ![](https://github.com/SamuelHunter/ChaosGame/blob/master/Chaos_Game_5_10^5_norepeat_color.png)
 
-[Read more here](https://en.wikipedia.org/wiki/Chaos_game)
+[Read more here](https://en.wikipedia.org/wiki/Chaos_game)\
+[Also look at this](http://www.shodor.org/interactivate/activities/TheChaosGame/)
