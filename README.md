@@ -1,5 +1,5 @@
 # ChaosGame
-Method for randomly creating a fractal within a given polygon
+Iterative method for randomly fractal generation within a polygon
 
 This program follows an iterative (non-recursive) algorithm to create fractals:
   1. Start from a random point within the polygon
